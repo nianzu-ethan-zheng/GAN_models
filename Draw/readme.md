@@ -1,3 +1,3 @@
 # Attention 
 
-![Draw](GAN_models/Draw/Pic/Draw.png)
+![Draw](https://github.com/DreamPurchaseZnz/GAN_models/Draw/Pic/Draw.png)
