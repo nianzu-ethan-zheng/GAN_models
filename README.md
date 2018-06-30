@@ -2,7 +2,7 @@
 
 ![Feild](https://github.com/DreamPurchaseZnz/GAN_models/blob/master/pic/GAN.PNG)
 
-![Feild](https://github.com/DreamPurchaseZnz/GAN_models/blob/master/pic/Feild.PNG)
+![Feild](https://github.com/DreamPurchaseZnz/GAN_models/blob/master/pic/Field.PNG)
 
 ![Landscape](https://github.com/DreamPurchaseZnz/GAN_models/blob/master/pic/Landscape.PNG)
 
