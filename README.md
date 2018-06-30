@@ -9,7 +9,7 @@
 ![Landscape](https://github.com/DreamPurchaseZnz/GAN_models/blob/master/pic/Landscape.PNG)
 
 ## GANs
-![Feild](https://github.com/DreamPurchaseZnz/GAN_models/blob/master/pic/KindofGAN.PNG)
+![Feild](https://github.com/DreamPurchaseZnz/GAN_models/blob/master/pic/KindofGANs.PNG)
 
 ## CycleGAN
 ![CycleGAN](https://github.com/DreamPurchaseZnz/GAN_models/blob/master/pic/Cyclelearning.PNG)
